@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930806583578",
+    "project_id": "tutorial-login-e44d7",
+    "storage_bucket": "tutorial-login-e44d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930806583578:android:03e61c4223a6419e92dca3",
+        "android_client_info": {
+          "package_name": "login.general.ae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3CsKRJqzK-56sqWK1VF7DsZs4mlN3-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
